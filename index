@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Красота Санкт-Петербурга</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f4f4;
+      color: #333;
+      line-height: 1.6;
+    }
+    .container {
+      max-width: 800px;
+      margin: 20px auto;
+      padding: 20px;
+      background: #fff;
+      border-radius: 8px;
+      box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    }
+    h1, h2 {
+      text-align: center;
+      color: #2c3e50;
+    }
+    img {
+      display: block;
+      margin: 20px auto;
+      max-width: 100%;
+      border-radius: 10px;
+    }
+    hr {
+      border: 1px solid #ccc;
+      margin: 20px 0;
+    }
+    p {
+      margin: 10px 0;
+    }
+    iframe {
+      display: block;
+      width: 100%;
+      height: 400px;
+      margin: 20px 0;
+      border: none;
+    }
+    .footer {
+      text-align: center;
+      margin-top: 20px;
+      font-size: 14px;
+      color: #666;
+    }
+    .footer a {
+      color: #16a085;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Красота Санкт-Петербурга</h1>
+    <hr>
+    <img src="ссылка-на-фото.jpg" alt="Санкт-Петербург">
+    <p>Санкт-Петербург – один из самых красивых городов мира, знаменитый своими дворцами, каналами и культурным наследием. Этот город называют "Северной Венецией" благодаря множеству мостов и водных каналов.</p>
+    <p>Основанный Петром I в 1703 году, Санкт-Петербург стал культурным и историческим центром России. Здесь находятся такие известные достопримечательности, как Эрмитаж, Петропавловская крепость, Исаакиевский собор и многие другие.</p>
+    <h2>Посмотреть 360-градусный обзор</h2>
+    <iframe src="ссылка-на-360-видео"></iframe>
+    <div class="footer">
+      © 2024 Все права защищены. <a href="https://gptonline.ai/ru/">Посетите наш сайт</a>.
+    </div>
+  </div>
+</body>
+</html>
